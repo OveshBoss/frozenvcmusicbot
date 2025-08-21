@@ -18,7 +18,7 @@
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "Your Telegram bot token from @BotFather",
+      "description": "8399100773:AAHh_SNO_chjCo3aiAdKheCQcmdqfU099pU",
       "required": true
     },
     "OWNER_ID": {
